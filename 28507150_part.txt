@@ -1,0 +1,696 @@
+<div class="content-inner__main">
+<!-- breadcrumbs -->
+<nav class="breadcrumbs mobile-hidden" id="breadcrumbs">
+<p class="visuallyhidden" id="breadcrumb__label">You are here:</p>
+<ul aria-labelledby="breadcrumb__label" class="breadcrumbs__list">
+<li class="breadcrumbs__item home">
+<a class="breadcrumbs__link" href="https://www.monash.edu/">Home</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="https://www.monash.edu/study">Study</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="/pubs/2019handbooks/">2019 Handbooks</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item breadcrumbs__current"><a class="breadcrumbs__link" href="/pubs/2019handbooks/units">Units</a></li>
+</ul>
+</nav>
+<div class="hbk-banner-box">
+<h1 class="banner_ada"><span class="unitcode">DGN5204</span> - Design for social impact<span class="hbk-archive-only"> - 2019</span></h1>
+</div>
+<div id="content_container_">
+<h2 class="hbk-eftsl">6 points, SCA Band 1, 0.125 EFTSL</h2>
+<div class="hbk-unit-info-box" id="box-DGN5204">
+<h2 class="hbk-unit-info-box__heading heading_ada">Postgraduate - Unit</h2>
+<p class="hbk-highlight-value">Refer to the specific
+         <a href="http://monash.edu/enrolments/dates/census.html">census and withdrawal dates</a>
+         for the semester(s) in which this unit is offered.</p>
+<p class="hbk-highlight-heading">Faculty</p>
+<p class="hbk-highlight-value"><a href="index-byfaculty-ada.html">Art, Design and Architecture</a></p>
+<p class="hbk-highlight-heading">Organisational Unit</p>
+<p class="hbk-highlight-value"><a href="index-byou-department-of-design.html">Department of Design</a></p>
+<p class="hbk-highlight-heading">Chief examiner(s)</p>
+<p>
+<a href="http://staffsearch.monash.edu/?name=Jeffrey Janet">Mr Jeffrey Janet</a>
+        
+        (Sem 1)
+      
+    <br/>
+<a href="http://staffsearch.monash.edu/?name=James Oliver">Dr James Oliver</a>
+        
+        (Sem 2)
+      
+    <br/>
+</p>
+<p class="hbk-highlight-heading">Coordinator(s)</p>
+<p>
+<a href="http://staffsearch.monash.edu/?name=Jeffrey Janet">Mr Jeffrey Janet</a>
+        
+        (Sem 1)
+      
+    <br/>
+<a href="http://staffsearch.monash.edu/?name=James Oliver">Dr James Oliver</a>
+        
+        (Sem 2)
+      
+    <br/>
+</p>
+<p class="hbk-highlight-heading">Unit guides</p>
+<ul>
+<li>
+<a href="http://unitguidemanager.monash.edu/view?unitCode=DGN5204&amp;tpCode=S1-01&amp;tpYear=2019">First semester</a>
+</li>
+<li>
+<a href="http://unitguidemanager.monash.edu/view?unitCode=DGN5204&amp;tpCode=S2-01&amp;tpYear=2019">Second semester</a>
+</li>
+</ul>
+</div>
+<div class="hbk-preamble " id="preamble-DGN5204">
+<div class="hbk-preamble-entry">
+<div class="hbk-preamble-icon hbk-preamble-icon_mode"></div>
+<p class="hbk-preamble-heading">Offered</p>
+<p><a href="index-bylocation-caulfield.html">Caulfield</a></p><ul class="hbk-preamble-list__offerings"><li>First semester 2019 (On-campus)</li><li>Second semester 2019 (On-campus)</li></ul>
+</div>
+<div class="hbk-preamble-entry">
+<p class="hbk-preamble-heading">Prerequisites</p>
+<p><span class="unitlink"><a href="/pubs/2019handbooks/units/MDC4110.html">MDC4110</a></span> or <span class="unitlink"><a href="/pubs/2019handbooks/units/MDC4120.html">MDC4120</a></span> or <span class="unitlink"><a href="/pubs/2019handbooks/units/MDC4130.html">MDC4130</a></span> or by permission</p>
+</div>
+</div>
+<h2 class="hbk-heading">Synopsis</h2>
+<div>
+<p>In this unit students will collaborate with health and wellbeing organisations or similar on specified design projects. Using design skills, processes and technologies they will be challenged to prototype, visualise and present innovative design solutions that impact positively on society. Students will understand the value of co-creation and partnership as being vital to the outcome of design activities that instigate social change. The interdisciplinary and holistic approach of this unit includes, but is not limited to, spatial design, digital media design, interaction design, communication design, service and product design.</p>
+</div>
+<h2 class="hbk-heading">Outcomes</h2>
+<div>
+<p>Upon successful completion of this unit students will have the ability to:</p>
+<ol princestart="0" start="1" type="1">
+<li>Evaluate and communicate the potential of design as an agent for social change;</li>
+<li>Propose and present ethical and responsible design concepts;</li>
+<li>Understand the significance of collaboration as part of inter-disciplinary teamwork in co-creating complex design solutions for social enterprise or innovation;</li>
+<li>Demonstrate ethnographic research approaches as part of the design process for social enterprise or innovation;</li>
+<li>Demonstrate skills for visualising and prototyping complex design solutions in the area of social design;</li>
+<li>Critically analyse and evaluate the social impact of design solutions;</li>
+<li>Understand and apply the rules of occupational health and safety appropriate to the unit.</li>
+</ol>
+</div>
+<h2 class="hbk-heading">Assessment</h2>
+<div>
+<p>100% in-semester assessment</p>
+</div>
+<h2 class="hbk-heading">Workload requirements</h2>
+<div>
+<p>12 hours per week including 3 contact hours plus 9 hours of independent study.</p><p>See also <a href="http://www.monash.edu.au/timetables/">Unit timetable information</a></p>
+</div>
+<!-- /.content_container--> </div>
+<!-- /.content-inner__main --></div>
+
+<div class="content-inner__main">
+<!-- breadcrumbs -->
+<nav class="breadcrumbs mobile-hidden" id="breadcrumbs">
+<p class="visuallyhidden" id="breadcrumb__label">You are here:</p>
+<ul aria-labelledby="breadcrumb__label" class="breadcrumbs__list">
+<li class="breadcrumbs__item home">
+<a class="breadcrumbs__link" href="https://www.monash.edu/">Home</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="https://www.monash.edu/study">Study</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="/pubs/2019handbooks/">2019 Handbooks</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item breadcrumbs__current"><a class="breadcrumbs__link" href="/pubs/2019handbooks/units">Units</a></li>
+</ul>
+</nav>
+<div class="hbk-banner-box">
+<h1 class="banner_it"><span class="unitcode">FIT5138</span> - Advanced software engineering<span class="hbk-archive-only"> - 2019</span></h1>
+</div>
+<div id="content_container_">
+<h2 class="hbk-eftsl">6 points, SCA Band 2, 0.125 EFTSL</h2>
+<div class="hbk-unit-info-box" id="box-FIT5138">
+<h2 class="hbk-unit-info-box__heading heading_it">Postgraduate - Unit</h2>
+<p class="hbk-highlight-value">Refer to the specific
+         <a href="http://monash.edu/enrolments/dates/census.html">census and withdrawal dates</a>
+         for the semester(s) in which this unit is offered.</p>
+<p class="hbk-highlight-heading">Faculty</p>
+<p class="hbk-highlight-value"><a href="index-byfaculty-it.html">Information Technology</a></p>
+<p class="hbk-highlight-heading">Chief examiner(s)</p>
+<p>
+<a href="http://staffsearch.monash.edu/?name=Yuan-Fang Li">Dr Yuan-Fang Li</a>
+<br/>
+</p>
+<p class="hbk-highlight-heading">Unit guides</p>
+<ul>
+<li>
+<a href="http://unitguidemanager.monash.edu/view?unitCode=FIT5138&amp;tpCode=S1-01&amp;tpYear=2019">First semester</a>
+</li>
+</ul>
+</div>
+<div class="hbk-preamble " id="preamble-FIT5138">
+<div class="hbk-preamble-entry">
+<div class="hbk-preamble-icon hbk-preamble-icon_mode"></div>
+<p class="hbk-preamble-heading">Offered</p>
+<p><a href="index-bylocation-caulfield.html">Caulfield</a></p><ul class="hbk-preamble-list__offerings"><li>First semester 2019 (On-campus)</li></ul>
+</div>
+<div class="hbk-preamble-entry">
+<p class="hbk-preamble-heading">Prerequisites</p>
+<p><span class="unitlink"><a href="/pubs/2019handbooks/units/FIT5136.html">FIT5136</a></span></p>
+<p>For students enrolled in 2770 or E3001, E3002, E3005, E3010, E3011, E3007 completing the Software Engineering specialisation: <span class="unitlink"><a href="/pubs/2019handbooks/units/FIT2004.html">FIT2004</a></span> and <span class="unitlink"><a href="/pubs/2019handbooks/units/MAT1830.html">MAT1830</a></span></p>
+</div>
+</div>
+<h2 class="hbk-heading">Synopsis</h2>
+<div>
+<p>This unit covers the core software engineering disciplines concerned with the design and development of complex software-based systems using advanced software engineering methods and technologies. This involves specification of software systems using advanced design languages and formal logics, as well as verifying the correctness of such specifications using formal engineering analysis methods and various mechanical/automated tools. Topics include design/modeling languages, software architecture design patterns, complex system design methods, mathematical logic, formal specification languages, theorem proving, and model checking. It shows how to analyse model complex software systems, how to express properties that the system should adhere to and how to use mechanical/automated tools to verify such properties.</p>
+</div>
+<h2 class="hbk-heading">Outcomes</h2>
+<div>
+<p>On successful completion of this unit students should be able to:</p>
+<ol princestart="0" start="1" type="1">
+<li>define requirements for complex interactive software systems;</li>
+<li>use modern high-level languages and technologies to document the architecture of complex reactive software systems;</li>
+<li>design new a high-level domain-specific language for a specific domain;</li>
+<li>articulate the central technical challenges of distributed reactive software systems and corresponding solution design patterns;</li>
+<li>develop suitable architectural-level solutions for complex interactive software systems;</li>
+<li>articulate the role of formal logic and verification methods in the system development life cycle;</li>
+<li>categorise major techniques and approaches to software verification: theorem proving, model checking and model-based testing;</li>
+<li>develop software specifications and express desirable properties using a formal language/logic such as the Event-B notation and temporal logics.</li>
+</ol>
+</div>
+<h2 class="hbk-heading">Assessment</h2>
+<div>
+<p>Examination (2 hours): 50%, In-semester assessment: 50%</p>
+</div>
+<h2 class="hbk-heading">Workload requirements</h2>
+<div>
+<p>Minimum total expected workload equals 12 hours per week comprising:</p>
+<ol princestart="0" start="1" type="a">
+<li>Contact hours for on-campus students:
+
+<ul>
+<li>Two hours of lectures</li>
+<li>One 2-hour tutorial</li>
+</ul></li>
+<li>Additional requirements (all students):
+
+<ul>
+<li>A minimum of 8 hours independent study per week for completing tutorial and project work, private study and revision.</li>
+</ul></li>
+</ol><p>See also <a href="http://www.monash.edu.au/timetables/">Unit timetable information</a></p>
+</div>
+<!-- /.content_container--> </div>
+<!-- /.content-inner__main --></div>
+
+<div class="content-inner__main">
+<!-- breadcrumbs -->
+<nav class="breadcrumbs mobile-hidden" id="breadcrumbs">
+<p class="visuallyhidden" id="breadcrumb__label">You are here:</p>
+<ul aria-labelledby="breadcrumb__label" class="breadcrumbs__list">
+<li class="breadcrumbs__item home">
+<a class="breadcrumbs__link" href="https://www.monash.edu/">Home</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="https://www.monash.edu/study">Study</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="/pubs/2019handbooks/">2019 Handbooks</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item breadcrumbs__current"><a class="breadcrumbs__link" href="/pubs/2019handbooks/units">Units</a></li>
+</ul>
+</nav>
+<div class="hbk-banner-box">
+<h1 class="banner_bus"><span class="unitcode">BEX6660</span> - Research topics in advanced macroeconomics<span class="hbk-archive-only"> - 2019</span></h1>
+</div>
+<div id="content_container_">
+<h2 class="hbk-eftsl">0 points, SCA Band 3, 0.000 EFTSL</h2>
+<div class="hbk-unit-info-box" id="box-BEX6660">
+<h2 class="hbk-unit-info-box__heading heading_bus">Postgraduate - Unit</h2>
+<p class="hbk-highlight-value">Refer to the specific
+         <a href="http://monash.edu/enrolments/dates/census.html">census and withdrawal dates</a>
+         for the semester(s) in which this unit is offered.</p>
+<p class="hbk-highlight-heading">Faculty</p>
+<p class="hbk-highlight-value"><a href="index-byfaculty-bus.html">Business and Economics</a></p>
+<p class="hbk-highlight-heading">Organisational Unit</p>
+<p class="hbk-highlight-value"><a href="index-byou-department-of-economics.html">Department of Economics</a></p>
+<p class="hbk-highlight-heading">Chief examiner(s)</p>
+<p>
+<a href="http://staffsearch.monash.edu/?name=Michelle Teresita Rendall">Dr Michelle Teresita Rendall</a>
+<br/>
+</p>
+<p class="hbk-highlight-heading">Coordinator(s)</p>
+<p>
+<a href="http://staffsearch.monash.edu/?name=Michelle Teresita Rendall">Dr Michelle Teresita Rendall</a>
+<br/>
+</p>
+<p class="hbk-highlight-heading">Unit guides</p>
+<ul>
+<li>
+<a href="http://unitguidemanager.monash.edu/view?unitCode=BEX6660&amp;tpCode=S2-01&amp;tpYear=2019">Second semester</a>
+</li>
+</ul>
+</div>
+<div class="hbk-preamble " id="preamble-BEX6660">
+<div class="hbk-preamble-entry">
+<div class="hbk-preamble-icon hbk-preamble-icon_mode"></div>
+<p class="hbk-preamble-heading">Offered</p>
+<p><a href="index-bylocation-clayton.html">Clayton</a></p><ul class="hbk-preamble-list__offerings"><li>Second semester 2019 (On-campus)</li></ul>
+</div>
+<div class="hbk-preamble-entry">
+<p class="hbk-preamble-heading">Prerequisites</p>
+<p>Students will be required to achieve a mark of at least 70% in all mandatory 6000 level coursework which needs to be completed prior to confirmation.</p>
+<p class="hbk-preamble-heading">Co-requisites</p>
+<p>Students must be enrolled in course 0029.</p>
+<p class="hbk-preamble-heading">Prohibitions</p>
+<p><span class="unitlink"><a href="/pubs/2019handbooks/units/ECC6660.html">ECC6660</a><span class="unitoffered">Not offered in 2019</span></span></p>
+</div>
+</div>
+<h2 class="hbk-heading">Synopsis</h2>
+<div>
+<p>Advanced topics in macroeconomics, current research and policy issues. The topics may include an in-depth study of consumption, investment, inflation and monetary policy, unemployment, and empirical applications.</p>
+</div>
+<h2 class="hbk-heading">Outcomes</h2>
+<div>
+<p>The learning goals associated with this unit are to:</p>
+<ol princestart="0" start="1" type="1">
+<li>possess technical proficiency to initiate and pursue PhD level research</li>
+<li>be capable of developing an original research topic</li>
+<li>be in a position to undertake research in macroeconomics and related fields.</li>
+</ol>
+</div>
+<h2 class="hbk-heading">Assessment</h2>
+<div>
+<p>Within semester assessment: 100%</p>
+</div>
+<!-- /.content_container--> </div>
+<!-- /.content-inner__main --></div>
+
+<div class="content-inner__main">
+<!-- breadcrumbs -->
+<nav class="breadcrumbs mobile-hidden" id="breadcrumbs">
+<p class="visuallyhidden" id="breadcrumb__label">You are here:</p>
+<ul aria-labelledby="breadcrumb__label" class="breadcrumbs__list">
+<li class="breadcrumbs__item home">
+<a class="breadcrumbs__link" href="https://www.monash.edu/">Home</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="https://www.monash.edu/study">Study</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="/pubs/2019handbooks/">2019 Handbooks</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item breadcrumbs__current"><a class="breadcrumbs__link" href="/pubs/2019handbooks/units">Units</a></li>
+</ul>
+</nav>
+<div class="hbk-banner-box">
+<h1 class="banner_ada"><span class="unitcode">VCO3206</span> - Conceptual illustration<span class="hbk-archive-only"> - 2019</span></h1>
+</div>
+<div id="content_container_">
+<h2 class="hbk-eftsl">6 points, SCA Band 1, 0.125 EFTSL</h2>
+<div class="hbk-unit-info-box" id="box-VCO3206">
+<h2 class="hbk-unit-info-box__heading heading_ada">Undergraduate - Unit</h2>
+<p class="hbk-highlight-value">Refer to the specific
+         <a href="http://monash.edu/enrolments/dates/census.html">census and withdrawal dates</a>
+         for the semester(s) in which this unit is offered.</p>
+<p class="hbk-highlight-heading">Faculty</p>
+<p class="hbk-highlight-value"><a href="index-byfaculty-ada.html">Art, Design and Architecture</a></p>
+<p class="hbk-highlight-heading">Organisational Unit</p>
+<p class="hbk-highlight-value"><a href="index-byou-department-of-design.html">Department of Design</a></p>
+<p class="hbk-highlight-heading">Chief examiner(s)</p>
+<p>
+<a href="http://staffsearch.monash.edu/?name=Ned Culic">Mr Ned Culic</a>
+<br/>
+</p>
+<p class="hbk-highlight-heading">Coordinator(s)</p>
+<p>
+<a href="http://staffsearch.monash.edu/?name=Ned Culic">Mr Ned Culic</a>
+<br/>
+</p>
+<p class="hbk-highlight-heading">Unit guides</p>
+<ul>
+<li>
+<a href="http://unitguidemanager.monash.edu/view?unitCode=VCO3206&amp;tpCode=S1-01&amp;tpYear=2019">First semester</a>
+</li>
+</ul>
+</div>
+<div class="hbk-preamble " id="preamble-VCO3206">
+<div class="hbk-preamble-entry">
+<div class="hbk-preamble-icon hbk-preamble-icon_mode"></div>
+<p class="hbk-preamble-heading">Offered</p>
+<p><a href="index-bylocation-caulfield.html">Caulfield</a></p><ul class="hbk-preamble-list__offerings"><li>First semester 2019 (On-campus)</li></ul>
+</div>
+<div class="hbk-preamble-entry">
+<p class="hbk-preamble-heading">Prerequisites</p>
+<p><span class="unitlink"><a href="/pubs/2019handbooks/units/VCO1203.html">VCO1203</a></span>, or <span class="unitlink"><a href="/pubs/2019handbooks/units/VCO2204.html">VCO2204</a></span>, or <span class="unitlink"><a href="/pubs/2019handbooks/units/CDS1531.html">CDS1531</a></span> or by permission</p>
+<p class="hbk-preamble-heading">Prohibitions</p>
+<p>VCO3204, VCO3205</p>
+</div>
+</div>
+<h2 class="hbk-heading">Synopsis</h2>
+<div>
+<p>This unit will develop the students understanding of conceptual thinking in contemporary illustration. It will introduce them to new approaches to image making that do not rely on literal or obvious visual reference. The art of humour, wit, metaphor and abstraction will be utilised in the answering of each brief in order to strengthen the students' illustration and intellectual skills and consequently their confidence as strong conceptual visual communicators. They will be encouraged toward experimentation and exploration of both traditional and digital illustrative techniques.</p>
+</div>
+<h2 class="hbk-heading">Outcomes</h2>
+<div>
+<p>Upon successful completion of this unit students should be able to:</p>
+<ol princestart="0" start="1" type="1">
+<li>Develop strong conceptual and communication skills through the use of hand generated, mechanical or digital image making;</li>
+<li>Respond to a brief with an open mind to experimentation and exploration of their chosen medium;</li>
+<li>Confidently respond to any given text or concept through an articulate and well executed image;</li>
+<li>Understand the place of illustration as a respected element of contemporary art and visual communication;</li>
+<li>Conceptualise and execute images quickly when required;</li>
+<li>Observe and employ occupational health and safety appropriate to studio practice.</li>
+</ol>
+</div>
+<h2 class="hbk-heading">Assessment</h2>
+<div>
+<p>100% in-semester assessment</p>
+</div>
+<h2 class="hbk-heading">Workload requirements</h2>
+<div>
+<p>12 hours per week including 3 contact hours plus 9 hours of independent study.</p><p>See also <a href="http://www.monash.edu.au/timetables/">Unit timetable information</a></p>
+</div>
+<!-- /.content_container--> </div>
+<!-- /.content-inner__main --></div>
+
+<div class="content-inner__main">
+<!-- breadcrumbs -->
+<nav class="breadcrumbs mobile-hidden" id="breadcrumbs">
+<p class="visuallyhidden" id="breadcrumb__label">You are here:</p>
+<ul aria-labelledby="breadcrumb__label" class="breadcrumbs__list">
+<li class="breadcrumbs__item home">
+<a class="breadcrumbs__link" href="https://www.monash.edu/">Home</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="https://www.monash.edu/study">Study</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="/pubs/2019handbooks/">2019 Handbooks</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item breadcrumbs__current"><a class="breadcrumbs__link" href="/pubs/2019handbooks/units">Units</a></li>
+</ul>
+</nav>
+<div class="hbk-banner-box">
+<h1 class="banner_arts"><span class="unitcode">ATS2305</span> - Digital humanities: Expanding research paradigms<span class="hbk-archive-only"> - 2019</span></h1>
+</div>
+<div id="content_container_">
+<h2 class="hbk-eftsl">6 points, SCA Band 1, 0.125 EFTSL</h2>
+<div class="hbk-unit-info-box" id="box-ATS2305">
+<h2 class="hbk-unit-info-box__heading heading_arts">Undergraduate - Unit</h2>
+<p class="hbk-highlight-value">Refer to the specific
+         <a href="http://monash.edu/enrolments/dates/census.html">census and withdrawal dates</a>
+         for the semester(s) in which this unit is offered.</p>
+<p class="hbk-highlight-heading">Faculty</p>
+<p class="hbk-highlight-value"><a href="index-byfaculty-arts.html">Arts</a></p>
+<p class="hbk-highlight-heading">Organisational Unit</p>
+<p class="hbk-highlight-value"><a href="index-byou-school-of-languages-literatures-cultures-and-linguistics.html">School of Languages, Literatures, Cultures and Linguistics</a></p>
+<p class="hbk-highlight-heading">Chief examiner(s)</p>
+<p>
+<a href="http://staffsearch.monash.edu/?name=Simon Musgrave">Dr Simon Musgrave</a>
+<br/>
+</p>
+<p class="hbk-highlight-heading">Coordinator(s)</p>
+<p>
+<a href="http://staffsearch.monash.edu/?name=Simon Musgrave">Dr Simon Musgrave</a>
+<br/>
+</p>
+<p class="hbk-highlight-heading">Unit guides</p>
+<ul>
+<li>
+<a href="http://unitguidemanager.monash.edu/view?unitCode=ATS2305&amp;tpCode=S2-01&amp;tpYear=2019">Second semester</a>
+</li>
+</ul>
+</div>
+<div class="hbk-preamble " id="preamble-ATS2305">
+<div class="hbk-preamble-entry">
+<div class="hbk-preamble-icon hbk-preamble-icon_mode"></div>
+<p class="hbk-preamble-heading">Offered</p>
+<p><a href="index-bylocation-caulfield.html">Caulfield</a></p><ul class="hbk-preamble-list__offerings"><li>Second semester 2019 (On-campus)</li></ul>
+</div>
+<div class="hbk-preamble-entry">
+<p class="hbk-preamble-heading">Prerequisites</p>
+<p>Twelve credit points of first-year Arts units.</p>
+<p class="hbk-preamble-heading">Prohibitions</p>
+<p>ATS3305</p>
+</div>
+</div>
+<h2 class="hbk-heading">Synopsis</h2>
+<div>
+<p>This unit examines the application of digital technologies (beyond textual analysis) in humanities research, covering the methods used to make data accessible, the analytic techniques which are thereby enabled, and the dissemination of research results through new modes of publication. The unit will be based on active learning and will enhance and consolidate students' academic and research abilities. It will also guide students to an understanding of the potential of applying new analytic tools to problems in various humanities disciplines and will stimulate team-work and collaboration, creating a pool of transferable skills that students can acquire and practice, and encouraging students to make productive links between theoretical ideas and practical applications.</p>
+</div>
+<h2 class="hbk-heading">Outcomes</h2>
+<div>
+<p>Upon successful completion of the unit, students will be able to:</p>
+<ol princestart="0" start="1" type="1">
+<li>address research questions in the digital humanities which require non-textual data;</li>
+<li>understand how non-textual data can be made accessible to analysis;</li>
+<li>understand which analytic techniques are appropriate to particular kinds of data;</li>
+<li>analyse project requirements and cooperate to complete a project;</li>
+<li>use innovative means to communicate their subject knowledge and disciplinary approach to a wider public.</li>
+</ol>
+</div>
+<h2 class="hbk-heading">Assessment</h2>
+<div>
+<p>Within semester assessment: 100%</p>
+</div>
+<h2 class="hbk-heading">Workload requirements</h2>
+<div>
+<p>Minimum total expected workload to achieve the learning outcomes for this unit is 144 hours per semester typically comprising a mixture of scheduled learning activities and independent study. A unit requires on average three/four hours of scheduled activities per week. Scheduled activities may include a combination of teacher directed learning, peer directed learning and online engagement.</p><p>See also <a href="http://www.monash.edu.au/timetables/">Unit timetable information</a></p>
+</div>
+<h2 class="hbk-heading">This unit applies to the following area(s) of study</h2>
+<div>
+<p><a href="../aos/digital-humanities">Digital humanities</a></p>
+</div>
+<!-- /.content_container--> </div>
+<!-- /.content-inner__main --></div>
+
+<div class="content-inner__main">
+<!-- breadcrumbs -->
+<nav class="breadcrumbs mobile-hidden" id="breadcrumbs">
+<p class="visuallyhidden" id="breadcrumb__label">You are here:</p>
+<ul aria-labelledby="breadcrumb__label" class="breadcrumbs__list">
+<li class="breadcrumbs__item home">
+<a class="breadcrumbs__link" href="https://www.monash.edu/">Home</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="https://www.monash.edu/study">Study</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="/pubs/2019handbooks/">2019 Handbooks</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item breadcrumbs__current"><a class="breadcrumbs__link" href="/pubs/2019handbooks/units">Units</a></li>
+</ul>
+</nav>
+<div class="hbk-banner-box">
+<h1 class="banner_arts"><span class="unitcode">AMU3575</span> - Task force: Responding to global challenges<span class="hbk-archive-only"> - 2019</span></h1>
+</div>
+<div id="content_container_">
+<h2 class="hbk-eftsl">6 points, SCA Band 1, 0.125 EFTSL</h2>
+<div class="hbk-unit-info-box" id="box-AMU3575">
+<h2 class="hbk-unit-info-box__heading heading_arts">Undergraduate - Unit</h2>
+<p class="hbk-highlight-value">Refer to the specific
+         <a href="http://monash.edu/enrolments/dates/census.html">census and withdrawal dates</a>
+         for the semester(s) in which this unit is offered.</p>
+<p class="hbk-highlight-heading">Faculty</p>
+<p class="hbk-highlight-value"><a href="index-byfaculty-arts.html">Arts</a></p>
+<p class="hbk-highlight-heading">Organisational Unit</p>
+<p class="hbk-highlight-value"><a href="index-byou-malaysia-school-of-arts-and-social-sciences.html">Malaysia School of Arts and Social Sciences</a></p>
+<p class="hbk-highlight-heading">Chief examiner(s)</p>
+<p>
+<a href="http://staffsearch.monash.edu/?name=Marco Bunte">Associate Professor Marco Bunte</a>
+        
+        (Semester 1)
+      
+    <br/>
+<a href="http://staffsearch.monash.edu/?name=Joel David Moore">Dr Joel David Moore</a>
+        
+        (winter semester)
+      
+    <br/>
+</p>
+<p class="hbk-highlight-heading">Coordinator(s)</p>
+<p>
+<a href="http://staffsearch.monash.edu/?name=Marco Bunte">Associate Professor Marco Bunte</a>
+        
+        (Semester 1)
+      
+    <br/>
+<a href="http://staffsearch.monash.edu/?name=Joel David Moore">Dr Joel David Moore</a>
+        
+        (winter semester)
+      
+    <br/>
+</p>
+<p class="hbk-highlight-heading">Quota applies</p>
+<p>This unit has a student enrolment quota of 45.
+      
+      
+      </p><p class="hbk-highlight-heading">Unit guides</p>
+<ul>
+<li>
+<a href="http://unitguidemanager.monash.edu/view?unitCode=AMU3575&amp;tpCode=S1-01&amp;tpYear=2019">First semester</a>
+</li>
+<li>
+<a href="http://unitguidemanager.monash.edu/view?unitCode=AMU3575&amp;tpCode=WS-01&amp;tpYear=2019">Winter semester</a>
+</li>
+</ul>
+</div>
+<div class="hbk-preamble " id="preamble-AMU3575">
+<div class="hbk-preamble-entry">
+<div class="hbk-preamble-icon hbk-preamble-icon_mode"></div>
+<p class="hbk-preamble-heading">Offered</p>
+<p><a href="index-bylocation-malaysia.html">Malaysia</a></p><ul class="hbk-preamble-list__offerings"><li>First semester 2019 (On-campus)</li><li>Winter semester 2019 (On-campus block of classes)</li></ul>
+</div>
+<div class="hbk-preamble-entry">
+<p class="hbk-preamble-heading">Prerequisites</p>
+<p>Twelve credit points of second-year Arts units.</p>
+</div>
+</div>
+<h2 class="hbk-heading">Synopsis</h2>
+<div>
+<p>This multidisciplinary capstone unit is designed to be a culminating experience for students in the School of Arts and Social Sciences. Students from Communications, Writing, Global Studies, and Gender Studies majors will work in groups on a policy report and recommendation on a specific issue of contemporary concern. Students will bring their disciplinary expertise to bear in identifying the key challenges inherent to the issue and proposing solutions to these challenges. The report and policy recommendations will be presented to an external expert in the specific issue area.</p>
+</div>
+<h2 class="hbk-heading">Outcomes</h2>
+<div>
+<p>Upon successful completion of the unit students will be able to:</p>
+<ol princestart="0" start="1" type="1">
+<li>identify various state and non-state actors and their roles in contributing to and resolving an international policy issue;</li>
+<li>critically analyse the goals and motivations of various actors involved with an international policy issue;</li>
+<li>collaborate effectively with peers in a small group environment;</li>
+<li>interpret primary and secondary documents through developing critical reading skills;</li>
+<li>communicate ideas and arguments in verbal form;</li>
+<li>write and present policy briefs.</li>
+</ol>
+</div>
+<h2 class="hbk-heading">Assessment</h2>
+<div>
+<p>Within semester assessment: 100%</p>
+</div>
+<h2 class="hbk-heading">Workload requirements</h2>
+<div>
+<p>Minimum total expected workload to achieve the learning outcomes for this unit is 144 hours per semester typically comprising a mixture of scheduled learning activities and independent study. A unit requires on average three/four hours of scheduled activities per week. Scheduled activities may include a combination of teacher directed learning, peer directed learning and online engagement.</p><p>See also <a href="http://www.monash.edu.au/timetables/">Unit timetable information</a></p>
+</div>
+<h2 class="hbk-heading">This unit applies to the following area(s) of study</h2>
+<div>
+<p><a href="../aos/communication">Communication</a></p>
+<p><a href="../aos/gender-studies">Gender studies</a></p>
+<p><a href="../aos/global-asia">Global asia</a></p>
+<p><a href="../aos/global-studies">Global studies</a></p>
+<p><a href="../aos/writing">Writing</a></p>
+</div>
+<!-- /.content_container--> </div>
+<!-- /.content-inner__main --></div>
+
+<div class="content-inner__main">
+<!-- breadcrumbs -->
+<nav class="breadcrumbs mobile-hidden" id="breadcrumbs">
+<p class="visuallyhidden" id="breadcrumb__label">You are here:</p>
+<ul aria-labelledby="breadcrumb__label" class="breadcrumbs__list">
+<li class="breadcrumbs__item home">
+<a class="breadcrumbs__link" href="https://www.monash.edu/">Home</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="https://www.monash.edu/study">Study</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="/pubs/2019handbooks/">2019 Handbooks</a>
+<span aria-hidden="true" class="breadcrumbs__divider">|</span>
+</li>
+<li class="breadcrumbs__item breadcrumbs__current"><a class="breadcrumbs__link" href="/pubs/2019handbooks/units">Units</a></li>
+</ul>
+</nav>
+<div class="hbk-banner-box">
+<h1 class="banner_law"><span class="unitcode">LAW4227</span> - Criminal investigation law and procedure<span class="hbk-archive-only"> - 2019</span></h1>
+</div>
+<div id="content_container_">
+<h2 class="hbk-eftsl">6 points, SCA Band 3, 0.125 EFTSL</h2>
+<div class="hbk-unit-info-box" id="box-LAW4227">
+<h2 class="hbk-unit-info-box__heading heading_law">Undergraduate - Unit</h2>
+<p class="hbk-highlight-value">Refer to the specific
+         <a href="http://monash.edu/enrolments/dates/census.html">census and withdrawal dates</a>
+         for the semester(s) in which this unit is offered.</p>
+<p class="hbk-highlight-heading">Faculty</p>
+<p class="hbk-highlight-value"><a href="index-byfaculty-law.html">Law</a></p>
+<p class="hbk-highlight-heading">Chief examiner(s)</p>
+<p>
+<a href="http://staffsearch.monash.edu/?name=Peter Sallmann">Mr Peter Sallmann</a>
+<br/>
+</p>
+</div>
+<div class="hbk-preamble " id="preamble-LAW4227">
+<div class="hbk-preamble-entry">
+<div class="hbk-preamble-icon hbk-preamble-icon_mode"></div>
+<p>Not offered in 2019</p>
+</div>
+<div class="hbk-preamble-entry">
+<p class="hbk-preamble-heading">Prerequisites</p>
+<p>For students in the LLB course:</p>
+<p>LAW1101 Introduction to legal reasoning</p>
+<p>LAW1104 Research and writing</p>
+<p>For students in the LLB Hons course:</p>
+<p>Prerequisites:</p>
+<p>Foundations of law</p>
+<p>Criminal law 1</p>
+<p>Public law and statutory interpretation</p>
+<p>Torts</p>
+<p>Contract A</p>
+<p>Contract B</p>
+<p>Property A</p>
+<p>Constitutional law</p>
+<p>Co-requisites:</p>
+<p>Equity</p>
+<p>Corporations law</p>
+</div>
+</div>
+<h2 class="hbk-heading">Synopsis</h2>
+<div>
+<p>Criminal investigation and procedure involves an examination of the elaborate and sometimes complex set of arrangements which have evolved over many hundreds of years for dealing with the processing of criminal cases against alleged offenders.</p>
+<p>Criminal investigation and procedure involves not only a study of the process and the law relating to the various elements of that process but also a consideration of some fundamental issues of political and legal philosophy: in essence, what is the appropriate balance to be struck between the community interest in preventing and dealing with crime and the liberties and interests of the individuals who are caught up in the system?</p>
+<p>The Unit deals with the following topics and issues:</p>
+<ul>
+<li>The underlying purposes of the criminal investigative and procedural system</li>
+<li>The architecture of the criminal investigative process: police, prosecution, defence and the courts</li>
+<li>Criminal investigative arrangements: investigation, rights and responsibilities</li>
+<li>Commencing criminal proceedings</li>
+<li>Custodial investigation: questioning, identification, forensic and other procedures</li>
+<li>Bail</li>
+<li>Prosecution processes and principles</li>
+<li>Criminal trials</li>
+<li>Sentencing</li>
+<li>Appeals</li>
+</ul>
+</div>
+<h2 class="hbk-heading">Outcomes</h2>
+<div>
+<p>The overall objective of this Unit is to acquaint students with the significant number of steps or decision-making stages of the criminal investigation process, and the law and practice in relation to those key decision-making points. Students will develop a good descriptive and analytical grasp of the whole criminal investigative process.</p>
+<p>The area will be approached not only from the perspective of what the law is but also from a legal policy standpoint. Significant emphasis will be given to the fundamental political and philosophical questions which arise in criminal investigation, especially those concerning civil liberties and community interests.</p>
+</div>
+<h2 class="hbk-heading">Assessment</h2>
+<div>
+<p>Class attendance and participation (10%)</p>
+<p>2500 word research project (50%)</p>
+<p>Take-home examination (40%)</p>
+</div>
+<h2 class="hbk-heading">Workload requirements</h2>
+<div>
+<p>Minimum total expected workload to achieve the learning outcomes for this unit is 144 hours per semester typically comprising a mixture of scheduled learning activities and independent study. The unit requires on average three/four hours of scheduled activities per week. Scheduled activities may include a combination of teacher directed learning, peer directed learning and online engagement.</p><p>See also <a href="http://www.monash.edu.au/timetables/">Unit timetable information</a></p>
+</div>
+<!-- /.content_container--> </div>
+<!-- /.content-inner__main --></div>
